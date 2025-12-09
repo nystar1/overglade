@@ -4,10 +4,10 @@
 
 </script>
 
-<img src="/top.png" aria-hidden="true" class="top-img big"/>
-<img src="/top_mobile.png" aria-hidden="true" class="top-img mobile">
+<img src="top.png" aria-hidden="true" class="top-img big"/>
+<img src="top_mobile.png" aria-hidden="true" class="top-img mobile">
 
-<img src="/hackclub-flag.png" aria-hidden="true" class="hackclub-flag"/>
+<img src="hackclub-flag.png" aria-hidden="true" class="hackclub-flag"/>
 
 <div class="subtitle">
     <p>Singapore &#10022; Jan 29 – Feb 2</p>
@@ -209,7 +209,7 @@
 </main>
 
 <footer>
-<img src="/footer_temp.png" aria-hidden="true" />
+<img src="footer_temp.png" aria-hidden="true" />
 <div class="subtitle-footer">
     <p>Made with ❤︎ by @<a href="https://hackclub.enterprise.slack.com/team/U07DJMFAQQP" target="_blank">tongyu</a></p>
     <p><a href="https://hackclub.com" target="_blank">Hack Club</a> · <a href="https://hackclub.com/slack" target="_blank">Slack</a> · <a href="https://hackclub.com/clubs" target="_blank">Clubs</a></p>
