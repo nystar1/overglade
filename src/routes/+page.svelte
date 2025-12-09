@@ -165,6 +165,8 @@
 
         <p>Participants can get flight stipends from the Milkyway shop at a rate of ~12 hours for every $100 USD in flight stipends. They can stack this multiple times to cover their flights, and can also use it to cover passport/visa costs.</p>
 
+        <p>While the ticket for Overglade will be taken off the shop on January 21, participants may continue to apply for travel stipends for another 2 weeks after the event ends.</p>
+
         <p>If you reach 600 coins, you may apply for a need-based stipend. This stipend is intended for participants who are from far away and are making high quality projects — they require three stellar ships. If you fail to get three stellar ships, you can continue to purchase normal flight stipends.</p>
 
         <p>(If any participant is travelling via ferry, the flight stipends can cover that, too.)</p>
