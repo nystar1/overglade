@@ -210,6 +210,15 @@
 
 </main>
 
+<div class="sponsors-section">
+<p style="text-align: center">Overglade is made possible with the help of our lovely sponsors:</p>
+  <div class="sponsors-logos">
+  <img src="/sponsors/easyeda.png" />
+  <img src="/sponsors/littleox.png" />
+  </div>
+<p>
+</div>
+
 <footer>
 <img src="footer_temp.png" aria-hidden="true" />
 <div class="subtitle-footer">
@@ -327,6 +336,26 @@
     a:hover {
       text-decoration: none;
     }
+
+    .sponsors-section {
+      width: 100%;
+      padding: 0 50px;
+      box-sizing: border-box;
+    }
+
+    .sponsors-logos {
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      gap: 50px;
+    }
+
+    .sponsors-logos img {
+      height: 100px;
+      object-fit: fit;
+    }
+
+
 
     footer {
       margin: 0;
