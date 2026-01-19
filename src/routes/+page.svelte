@@ -1,5 +1,6 @@
 
 <script>
+    import { base } from '$app/paths';
     let currentSection = $state("overview")
 
 </script>
@@ -213,8 +214,8 @@
 <div class="sponsors-section">
 <p style="text-align: center">Overglade is made possible with the help of our lovely sponsors:</p>
   <div class="sponsors-logos">
-  <img src="/sponsors/easyeda.png" />
-  <img src="/sponsors/littleox.png" />
+  <img src="{base}/sponsors/easyeda.png" />
+  <img src="{base}/sponsors/littleox.png" />
   </div>
 <p>
 </div>
