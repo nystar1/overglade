@@ -64,6 +64,7 @@
 					images[i] = { url: img.url, id: img.id };
 				}
 			});
+			images = images; // Trigger Svelte reactivity
 		}
 
 		showEmailSection = false;
@@ -215,7 +216,6 @@
 <input
 	type="file"
 	accept="image/*"
-	capture="environment"
 	style="display: none;"
 	bind:this={fileInput}
 	onchange={handleFileChange}
