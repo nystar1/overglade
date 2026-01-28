@@ -283,7 +283,6 @@
 		border-radius: 8px;
 		font-size: 1.5rem;
 		font-weight: bold;
-		text-transform: capitalize;
 		color: white;
 		text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
 		margin: 0 auto;
@@ -300,7 +299,6 @@
 	}
 
 	.explanation strong {
-		text-transform: capitalize;
 		color: #D2FFD6;
 	}
 
