@@ -5,10 +5,11 @@ import { colorhuntTable } from '$lib/server/airtable';
 export async function POST({ request }) {
 	try {
 		const { email } = await request.json();
+		const sanitizedEmail = email.replace(/"/g, '\\"').trim();
 
 		const records = await colorhuntTable
 			.select({
-				filterByFormula: `{email} = "${email}"`,
+				filterByFormula: `{email} = "${sanitizedEmail}"`,
 				maxRecords: 1
 			})
 			.firstPage();
